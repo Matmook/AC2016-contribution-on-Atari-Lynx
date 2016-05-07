@@ -1,0 +1,1 @@
+$(SP) -r Tree.pcx -c lynx-sprite -w Tree.c,ident=Tree
